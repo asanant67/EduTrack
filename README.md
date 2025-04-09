@@ -46,3 +46,29 @@ This is a simple command-line application for calculating the average score of a
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+
+
+
+
+version 1.0.1 
+# Feedback Summary Tool
+
+This is a simple command-line application for summarizing student feedback collected from a text file. The application reads feedback entries from `student_feedback.txt`, calculates the total number of entries, and displays each feedback message.
+
+## Features
+
+- Reads feedback from a specified text file (`student_feedback.txt`).
+- Calculates the total number of feedback entries.
+- Displays each feedback message in a user-friendly format.
+
+## Requirements
+
+- Python 3.x
+
+## Installation
+
+1. **Clone the repository** (if applicable) or download the `feedback_summary.py` file.
+   
+   ```bash
+   git clone <repository-url>
+   cd <repository-directory>
